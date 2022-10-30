@@ -8,34 +8,37 @@
 ![GitHub action badge](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/actions/workflows/build.yml/badge.svg)
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jonghakseo/chrome-extension-boilerplate-react-viteFactions&count_bg=%23#222222&title_bg=%23#454545&title=😀&edge_flat=true" alt="hits"/>
 
-
 > This project is listed in the [Awesome Vite](https://github.com/vitejs/awesome-vite)
 
 </div>
 
 ## Table of Contents
 
-- [Intro](#intro)
-- [Features](#features)
-- [Installation](#installation)
-  - [Procedures](#procedures)
-- [Screenshots](#screenshots)
-  - [NewTab](#newtab)
-  - [Popup](#popup)  
-- [Documents](#documents)
-
+- [Table of Contents](#table-of-contents)
+- [Intro <a name="intro"></a>](#intro-)
+- [Features <a name="features"></a>](#features-)
+- [Installation <a name="installation"></a>](#installation-)
+  - [Procedures <a name="procedures"></a>](#procedures-)
+- [Screenshots <a name="screenshots"></a>](#screenshots-)
+  - [New Tab <a name="newtab"></a>](#new-tab-)
+  - [Popup <a name="popup"></a>](#popup-)
+- [Documents <a name="documents"></a>](#documents-)
+- [Thanks To](#thanks-to)
 
 ## Intro <a name="intro"></a>
+
 This boilerplate is made for creating chrome extensions using React and Typescript.
+
 > The focus was on improving the build speed and development experience with Vite.
 
 ## Features <a name="features"></a>
+
 - [React 18](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Jest](https://jestjs.io/)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - [Vite](https://vitejs.dev/)
-- [SASS](https://sass-lang.com/)
+- [Tailwind](https://tailwindcss.com/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Chrome Extension Manifest Version 3](https://developer.chrome.com/docs/extensions/mv3/intro/)
@@ -43,8 +46,9 @@ This boilerplate is made for creating chrome extensions using React and Typescri
 ## Installation <a name="installation"></a>
 
 ### Procedures <a name="procedures"></a>
+
 1. Clone this repository.
-2. Change `name` and `description` in package.json => **Auto synchronize with manifest** 
+2. Change `name` and `description` in package.json => **Auto synchronize with manifest**
 3. Run `yarn` or `npm i` (check your node version >= 16)
 4. Run `yarn dev` or `npm run dev`
 5. Load Extension on Chrome
@@ -65,23 +69,20 @@ This boilerplate is made for creating chrome extensions using React and Typescri
 
 <img width="305" alt="스크린샷 2022-04-11 오전 2 22 11" src="https://user-images.githubusercontent.com/53500778/162631660-d35c5f12-e0d7-4431-a020-97024cdda7a7.png">
 
-
-
 ## Documents <a name="documents"></a>
+
 - [Vite Plugin](https://vitejs.dev/guide/api-plugin.html)
 - [ChromeExtension](https://developer.chrome.com/docs/extensions/mv3/)
 - [Rollup](https://rollupjs.org/guide/en/)
 - [Rollup-plugin-chrome-extension](https://www.extend-chrome.dev/rollup-plugin)
 
-
-
 ---
+
 ## Thanks To
 
-| [Jetbrains](https://jb.gg/OpenSourceSupport)                                                                           | [Jackson Hong](https://www.linkedin.com/in/j-acks0n/)                                            |
-|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| [Jetbrains](https://jb.gg/OpenSourceSupport)                                                                                               | [Jackson Hong](https://www.linkedin.com/in/j-acks0n/)                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 | <img width="100" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="JetBrains Logo (Main) logo."> | <img width="100" src='https://avatars.githubusercontent.com/u/23139754?v=4' alt='Jackson Hong'/> |
-
 
 ---
 
