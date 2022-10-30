@@ -1,16 +1,7 @@
-<div align="center">
 <img src="public/icon-128.png" alt="logo"/>
-<h1> Chrome Extension Boilerplate with<br/>React + Vite + TypeScript</h1>
+<h1> Chrome Extension Boilerplate with<br/>React + Vite + TypeScript + Tailwind</h1>
 
-![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![](https://badges.aleen42.com/src/vitejs.svg)
-![GitHub action badge](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/actions/workflows/build.yml/badge.svg)
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jonghakseo/chrome-extension-boilerplate-react-viteFactions&count_bg=%23#222222&title_bg=%23#454545&title=😀&edge_flat=true" alt="hits"/>
-
-> This project is listed in the [Awesome Vite](https://github.com/vitejs/awesome-vite)
-
-</div>
+This boilerplate is originally from [Jonghakseo](https://github.com/Jonghakseo).
 
 ## Table of Contents
 
@@ -23,11 +14,10 @@
   - [New Tab <a name="newtab"></a>](#new-tab-)
   - [Popup <a name="popup"></a>](#popup-)
 - [Documents <a name="documents"></a>](#documents-)
-- [Thanks To](#thanks-to)
 
 ## Intro <a name="intro"></a>
 
-This boilerplate is made for creating chrome extensions using React and Typescript.
+This boilerplate is made for creating chrome extensions using React, Typescript, and Tailwind.
 
 > The focus was on improving the build speed and development experience with Vite.
 
@@ -77,13 +67,3 @@ This boilerplate is made for creating chrome extensions using React and Typescri
 - [Rollup-plugin-chrome-extension](https://www.extend-chrome.dev/rollup-plugin)
 
 ---
-
-## Thanks To
-
-| [Jetbrains](https://jb.gg/OpenSourceSupport)                                                                                               | [Jackson Hong](https://www.linkedin.com/in/j-acks0n/)                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| <img width="100" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="JetBrains Logo (Main) logo."> | <img width="100" src='https://avatars.githubusercontent.com/u/23139754?v=4' alt='Jackson Hong'/> |
-
----
-
-[Jonghakseo](https://nookpi.tistory.com/)
