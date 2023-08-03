@@ -34,7 +34,7 @@
     "autoprefixer": "10.4.13",
     "chokidar": "3.5.3",
     "eslint": "8.33.0",
-    "eslint-config-prettier": "8.5.0",
+    "eslint-config-prettier": "8.10.0",
     "eslint-plugin-prettier": "4.2.1",
     "eslint-plugin-react": "7.31.10",
     "fs-extra": "10.1.0",
