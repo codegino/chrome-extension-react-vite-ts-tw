@@ -60,6 +60,12 @@ export default defineConfig({
       },
     },
   },
+  test: {
+    globals: true,
+    environment: 'jsdom',
+    include: ['**/*.test.ts', '**/*.test.tsx'],
+    setupFiles: './test-utils/vitest.setup.js',
+  }
 });
 
 function getLastElement<T>(array: ArrayLike<T>): T {
