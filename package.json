@@ -25,7 +25,7 @@
     "webextension-polyfill": "0.10.0"
   },
   "devDependencies": {
-    "@rollup/plugin-typescript": "11.1.5",
+    "@rollup/plugin-typescript": "11.1.6",
     "@testing-library/react": "14.1.2",
     "@types/chrome": "0.0.254",
     "@types/node": "20.8.10",
