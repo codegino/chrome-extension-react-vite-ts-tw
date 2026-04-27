@@ -39,7 +39,7 @@
     "chokidar": "3.5.3",
     "cross-env": "7.0.3",
     "eslint": "8.56.0",
-    "eslint-config-prettier": "9.1.0",
+    "eslint-config-prettier": "9.1.2",
     "eslint-plugin-prettier": "5.0.1",
     "eslint-plugin-react": "7.31.10",
     "fs-extra": "11.2.0",
